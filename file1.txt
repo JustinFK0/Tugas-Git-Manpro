@@ -1,1 +1,2 @@
 Ini hasil edit dari branch MyBranch
+Ini adalah edit untuk file 1
